@@ -1,4 +1,4 @@
-package com.xm666.rewindcompatibilityplus.handler;
+package com.xm666.rewindplus.handler;
 
 import net.minecraft.client.Minecraft;
 

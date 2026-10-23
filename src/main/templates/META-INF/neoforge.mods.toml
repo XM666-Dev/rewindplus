@@ -19,8 +19,8 @@ description='''
 A mod that adds Rewind compatibility with other mods.
 '''
 
-[[mixins]]
-config="${mod_id}.mixins.json"
+#[[mixins]]
+#config="${mod_id}.mixins.json"
 
 #[[accessTransformers]]
 #file="META-INF/accesstransformer.cfg"
@@ -42,6 +42,6 @@ config="${mod_id}.mixins.json"
 [[dependencies.${mod_id}]]
     modId="rewind"
     type="required"
-    versionRange="[1.0.2,)"
+    versionRange="[1.0.3,)"
     ordering="NONE"
     side="CLIENT"
