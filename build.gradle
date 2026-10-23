@@ -82,6 +82,7 @@ dependencies {
     implementation "curse.maven:rewind-1725973:9130761"
     implementation "curse.maven:apricityui-1470115:9066030"
     implementation "curse.maven:ragdollified-1417732:9290015"
+    implementation "curse.maven:zarith-1720181:9284425"
     implementation "curse.maven:visual-health-1473785:8943482"
 }
 
