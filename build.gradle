@@ -151,6 +151,7 @@ dependencies {
     implementation fg.deobf("curse.maven:rewind-1725973:9130749")
     implementation fg.deobf("curse.maven:apricityui-1470115:9066024")
     implementation fg.deobf("curse.maven:ragdollified-1417732:9284557")
+    implementation fg.deobf("curse.maven:zarith-1720181:9284417")
     implementation fg.deobf("curse.maven:visual-health-1473785:8943489")
 }
 

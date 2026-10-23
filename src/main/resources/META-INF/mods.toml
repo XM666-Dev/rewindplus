@@ -74,7 +74,7 @@ description='''${mod_description}'''
 [[dependencies.${mod_id}]]
     modId="rewind"
     mandatory=true
-    versionRange="[1.0.2,)"
+    versionRange="[1.0.3,)"
     ordering="NONE"
     side="CLIENT"
 

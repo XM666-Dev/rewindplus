@@ -1,7 +1,7 @@
 package com.xm666.rewindplus;
 
 import com.mojang.logging.LogUtils;
-import net.neoforged.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod;
 import org.slf4j.Logger;
 
 @Mod(RewindPlus.MODID)
